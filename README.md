@@ -7,7 +7,14 @@
 ### FMIPA Hobby Corner
 FMIPA Hobby Corner adalah sebuah Web Forum Komunitas yang ditujukan untuk berbagi seputar hobby di lingkungan Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Negeri Jakarta. Dengan adanya Web Forum ini, diharapkan Mahasiswa FMIPA dapat lebih mudah dalam berbagi pengetahuan mengenai hobi yang ditekuninya.
 
-#### Hasil Survey
-Dari Hasil Survey yang kami lakukan, diketahui bahwa sebagian besar Mahasiswa FMIPA menyukai hobi ... maka dari hasil survey ini kami memutuskan untuk menjadikan ... ... ... sebagai salah tiga dari beberapa tag ynang dapat dicari di Web Forum ini.
+##### Fitur-fitur Web Forum FMIPA Hobby Corner
+* Mendaftarkan akun baru
+* Login dengan akun yang sudah terdaftar dalam database
+* Membuat Postingan Artikel baru
+* Memberikan _Comment_ pada Artikel
+* Memberikan _Reply_ dari _Comment_ pada sebuah artikel
+* Memberikan _Like_ pada sebuah Artikel
+* Mengedit Akun
 
-
+##### Design
+![Use Case] 
