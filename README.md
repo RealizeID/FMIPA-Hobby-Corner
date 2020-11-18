@@ -18,4 +18,4 @@ FMIPA Hobby Corner adalah sebuah Web Forum Komunitas yang ditujukan untuk berbag
 
 ##### Design
 ###### Use Case
-![Use Case](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/FMIPA-Hobby-Corner_UseCase.png)
+![Use Case](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/FMIPA-Hobby-Corner_Use-Case.png)
