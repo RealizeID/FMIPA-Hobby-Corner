@@ -14,7 +14,9 @@ FMIPA Hobby Corner adalah sebuah Web Forum Komunitas yang ditujukan untuk berbag
 Sebelum memulai pengembangan dari Web Forum ini, kami mengumpulkan data-data yang kami perlukan dari Mahasiswa FMIPA UNJ. dari data yang didapat adalah sebagai berikut:
 
 ![Respons 1.1](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-1/Kuesioner-1_Respons-1.jpeg)
+
 ![Respons 1.2](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-1/Kuesioner-1_Respons-2.jpeg)
+
 ![Respons 1.3](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-1/Kuesioner-1_Respons-3.jpeg)
 
 Dari 54 responden, kami menerima respon positif dari rencana kami untuk membuat Web Forum ini.
@@ -41,14 +43,22 @@ Atau juga dapat dilihat di Link Berikut ini: [Desain Mockup FMIPA Hobby Corner](
 
 
 #### Presentasi
-Berikut adalah bukti rekaman dari pemaparan yang telah kami lakukan: [Rekaman Pemaparan]()
+Berikut adalah bukti rekaman dari pemaparan yang telah kami lakukan: [Rekaman Pemaparan](https://youtu.be/L6JMfCFc4dQ)
 
 
 #### 2nd Phase Requirement Gathering
 Setelah melakukan pemaparan terkait Web Forum Hobi yang akan kami buat, kami memberikan link untuk survey kedua yang berisi pertanyaan-pertanyaan mengenai pemaparan yang telah kami lakukan, berikut adalah hasilnya:
 
-![Respon 2.1](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-2/Kuesioner-2_Respons-1.jpeg)
-![Respon 2.2](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-2/Kuesioner-2_Respons-2.jpeg)
-![Respon 2.3](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-2/Kuesioner-2_Respons-3.jpeg)
-![Respon 2.4](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-2/Kuesioner-2_Respons-4.jpeg)
-![Respon 2.5](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-2/Kuesioner-2_Respons-4.jpeg)
+![Respons 2.1](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-2/Kuesioner-2_Respons-1.jpeg)
+
+![Respons 2.2](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-2/Kuesioner-2_Respons-2.jpeg)
+
+![Respons 2.3](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-2/Kuesioner-2_Respons-3.jpeg)
+
+![Respons 2.4](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-2/Kuesioner-2_Respons-4.jpeg)
+
+![Respons 2.5](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-2/Kuesioner-2_Respons-5.jpeg)
+
+
+#### Final Report
+Berikut adalah laporan akhir dari tugas ini: [Final Report]()
