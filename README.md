@@ -12,7 +12,9 @@ Sebelum memulai pengembangan dari Web Forum ini, kami mengumpulkan data-data yan
 
 ![Respons 1](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-1/Kuesioner-1_Respons-1.jpeg)
 ![Respons 2](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-1/Kuesioner-1_Respons-2.jpeg)
-![Respons 3]()
+![Respons 3](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-1/Kuesioner-1_Respons-3.jpeg)
+
+Dari 54 responden, kami menerima 
 
 ##### Fitur-fitur Web Forum FMIPA Hobby Corner
 * Mendaftarkan akun baru
