@@ -36,7 +36,9 @@ Dari 54 respons kami menyimpulkan beberapa fitur yang akan kami berikan untuk We
 ###### Interaction Control
 ![Interaction Control](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/FMIPA-Hobby_Corner_Interaction-Control.jpeg)
 
-Atau juga dapat dilihat di Link Berikut ini: [Desain Mockup FMIPA HObby Corner](https://xd.adobe.com/view/bc3ee1bc-fb3f-4d17-bb63-679b0e0d1b51-e96d/)
+Atau juga dapat dilihat di Link Berikut ini: [Desain Mockup FMIPA Hobby Corner](https://xd.adobe.com/view/bc3ee1bc-fb3f-4d17-bb63-679b0e0d1b51-e96d/)
 
 
 #### 2nd Phase Requirement Gathering
+Setelah melakukan pemaparan terkait Web Forum Hobi yang akan kami buat, kami memberikan link untuk survey kedua yang berisi pertanyaan-pertanyaan mengenai pemaparan yang telah kami lakukan, berikut adalah hasilnya:
+
