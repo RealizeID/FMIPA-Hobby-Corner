@@ -48,5 +48,7 @@ Berikut adalah bukti rekaman dari pemaparan yang telah kami lakukan: [Rekaman Pe
 Setelah melakukan pemaparan terkait Web Forum Hobi yang akan kami buat, kami memberikan link untuk survey kedua yang berisi pertanyaan-pertanyaan mengenai pemaparan yang telah kami lakukan, berikut adalah hasilnya:
 
 ![Respon 21](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-2/Kuesioner-2_Respons-1.jpeg)
-![Respon 22]()
+![Respon 22](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-2/Kuesioner-2_Respons-2.jpeg)
 ![Respon 23]()
+![Respon 24]()
+![Respon 25]()
