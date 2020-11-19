@@ -9,8 +9,9 @@ FMIPA Hobby Corner adalah sebuah Web Forum Komunitas yang ditujukan untuk berbag
 
 #### 1st Phase Requirement Gathering
 Sebelum memulai pengembangan dari Web Forum ini, kami mengumpulkan data-data yang kami perlukan dari Mahasiswa FMIPA UNJ. dari data yang didapat adalah sebagai berikut:
+
 ![Respons 1](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-1/Kuesioner-1_Respons-1.jpeg)
-![Respons 2]()
+![Respons 2](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-1/Kuesioner-1_Respons-2.jpeg)
 ![Respons 3]()
 
 ##### Fitur-fitur Web Forum FMIPA Hobby Corner
