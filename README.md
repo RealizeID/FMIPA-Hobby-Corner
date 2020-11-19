@@ -14,9 +14,10 @@ Sebelum memulai pengembangan dari Web Forum ini, kami mengumpulkan data-data yan
 ![Respons 2](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-1/Kuesioner-1_Respons-2.jpeg)
 ![Respons 3](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-1/Kuesioner-1_Respons-3.jpeg)
 
-Dari 54 responden, kami menerima 
+Dari 54 responden, kami menerima respon positif dari rencana kami untuk membuat Web Forum ini.
 
 ##### Fitur-fitur Web Forum FMIPA Hobby Corner
+Dari 54 respons kami menyimpulkan beberapa fitur yang akan kami berikan untuk Web Forum ini:
 * Mendaftarkan akun baru
 * Login dengan akun yang sudah terdaftar dalam database
 * Membuat Postingan Artikel baru
@@ -30,3 +31,5 @@ Dari 54 responden, kami menerima
 ![Use Case](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/FMIPA-Hobby-Corner_Use-Case.png)
 ###### Interaction Control
 ![Interaction Control](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/FMIPA-Hobby_Corner_Interaction-Control.jpeg)
+
+Atau juga dapat dilihat di Link Berikut ini: [Desain Mockup FMIPA HObby Corner](https://xd.adobe.com/view/bc3ee1bc-fb3f-4d17-bb63-679b0e0d1b51-e96d/)
