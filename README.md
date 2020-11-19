@@ -32,7 +32,7 @@ Dari 54 respons kami menyimpulkan beberapa fitur yang akan kami berikan untuk We
 
 ##### Design
 ###### Use Case
-![Use Case](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/FMIPA-Hobby-Corner_Use-Case.png)
+![Use Case](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Design/FMIPA-Hobby-Corner_Use-Case.png)
 ###### Interaction Control
 ![Interaction Control](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/FMIPA-Hobby_Corner_Interaction-Control.jpeg)
 
