@@ -13,9 +13,9 @@ FMIPA Hobby Corner adalah sebuah Web Forum Komunitas yang ditujukan untuk berbag
 #### 1st Phase Requirement Gathering
 Sebelum memulai pengembangan dari Web Forum ini, kami mengumpulkan data-data yang kami perlukan dari Mahasiswa FMIPA UNJ. dari data yang didapat adalah sebagai berikut:
 
-![Respons 1](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-1/Kuesioner-1_Respons-1.jpeg)
-![Respons 2](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-1/Kuesioner-1_Respons-2.jpeg)
-![Respons 3](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-1/Kuesioner-1_Respons-3.jpeg)
+![Respons 11](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-1/Kuesioner-1_Respons-1.jpeg)
+![Respons 12](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-1/Kuesioner-1_Respons-2.jpeg)
+![Respons 13](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-1/Kuesioner-1_Respons-3.jpeg)
 
 Dari 54 responden, kami menerima respon positif dari rencana kami untuk membuat Web Forum ini.
 
@@ -40,6 +40,13 @@ Dari 54 respons kami menyimpulkan beberapa fitur yang akan kami berikan untuk We
 Atau juga dapat dilihat di Link Berikut ini: [Desain Mockup FMIPA Hobby Corner](https://xd.adobe.com/view/bc3ee1bc-fb3f-4d17-bb63-679b0e0d1b51-e96d/)
 
 
+#### Presentasi
+Berikut adalah bukti rekaman dari pemaparan yang telah kami lakukan: [Rekaman Pemaparan]()
+
+
 #### 2nd Phase Requirement Gathering
 Setelah melakukan pemaparan terkait Web Forum Hobi yang akan kami buat, kami memberikan link untuk survey kedua yang berisi pertanyaan-pertanyaan mengenai pemaparan yang telah kami lakukan, berikut adalah hasilnya:
 
+![Respon 21]()
+![Respon 22]()
+![Respon 23]()
