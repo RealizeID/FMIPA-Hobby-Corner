@@ -46,7 +46,7 @@ Berikut adalah bukti rekaman dari pemaparan yang telah kami lakukan: [Rekaman Pe
 
 
 #### 2nd Phase Requirement Gathering
-Setelah melakukan pemaparan terkait Web Forum Hobi yang akan kami buat, kami memberikan link untuk survey kedua yang berisi pertanyaan-pertanyaan mengenai pemaparan yang telah kami lakukan, berikut adalah hasilnya:
+Setelah melakukan pemaparan terkait Web Forum Hobi yang akan kami buat, kami memberikan link untuk survey kedua yang berisi pertanyaan-pertanyaan mengenai pemaparan yang telah kami lakukan, kami menyebarkan link survey kedua ini melalui chat conference dan melalui email bagi responden yang belum bisa menghadiri sesi pemaparan kami. Dari 27 responden yang telah mengisi survey kedua, berikut adalah hasilnya:
 
 ![Respons 2.1](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-2/Kuesioner-2_Respons-1.jpeg)
 
