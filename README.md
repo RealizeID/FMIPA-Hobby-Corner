@@ -49,6 +49,6 @@ Setelah melakukan pemaparan terkait Web Forum Hobi yang akan kami buat, kami mem
 
 ![Respon 21](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-2/Kuesioner-2_Respons-1.jpeg)
 ![Respon 22](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-2/Kuesioner-2_Respons-2.jpeg)
-![Respon 23]()
+![Respon 23](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/main/Respons_Kuesioner-2/Kuesioner-2_Respons-3.jpeg)
 ![Respon 24]()
 ![Respon 25]()
