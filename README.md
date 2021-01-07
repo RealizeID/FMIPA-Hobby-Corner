@@ -26,4 +26,4 @@ Berikut adalah beberapa link dari source code project kami:
 
 
 #### Deployment Link
-Berikut adalah link dari website kami: [FMIPA Hobby Corner]()
+Berikut adalah link dari website kami: [FMIPA Hobby Corner](http://fmipahobbycorner.xyz/index.php/Login)
