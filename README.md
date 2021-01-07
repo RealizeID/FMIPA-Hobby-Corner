@@ -11,7 +11,13 @@ FMIPA Hobby Corner adalah sebuah Web Forum Komunitas yang ditujukan untuk berbag
 
 #### Group Report
 
-Berikut adalah link untuk Final Report dari Project kami: [Final Report]()
+Berikut adalah link untuk Final Report dari Project kami: [Final Report](https://github.com/RealizeID/FMIPA-Hobby-Corner/blob/source-code/FinalReport/Final%20Report.pdf)
 
 
-#### 
+#### Source Code
+
+Front-End: 
+
+Back-End:
+
+
