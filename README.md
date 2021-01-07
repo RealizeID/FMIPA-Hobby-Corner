@@ -17,12 +17,9 @@ Berikut adalah link untuk Final Report dari Project kami: [Final Report](https:/
 #### Source Code
 
 Berikut adalah beberapa link dari source code project kami:
-
-[Front-End](https://github.com/RealizeID/FMIPA-Hobby-Corner/tree/source-code/HTML)
-
-[Back-End](https://github.com/RealizeID/FMIPA-Hobby-Corner/tree/source-code/BackEnd)
-
-[Database](https://github.com/RealizeID/FMIPA-Hobby-Corner/tree/source-code/Database)
+a. [Front-End](https://github.com/RealizeID/FMIPA-Hobby-Corner/tree/source-code/HTML)
+b. [Back-End](https://github.com/RealizeID/FMIPA-Hobby-Corner/tree/source-code/BackEnd)
+c. [Database](https://github.com/RealizeID/FMIPA-Hobby-Corner/tree/source-code/Database)
 
 
 #### Deployment Link
